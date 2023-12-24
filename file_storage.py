@@ -1,6 +1,6 @@
-# Emirhan Toprak 20210601060
-# Hasan Efe Dinç 20200601110
-# Şükrü Kaan Tetik 20200601052
+# Emirhan Toprak 
+# Hasan Efe Dinç
+# Şükrü Kaan Tetik 
 
 from gather_data import GatherData
 import tkinter
