@@ -1,0 +1,2 @@
+City: Izmir 
+Scale: Celsius 
